@@ -12,4 +12,4 @@ libraryDependencies += "com.github.bigwheel" %% "rich-awaitable" % "1.0"
 
 ## Usage
 
-TBW
+[check test code](https://github.com/bigwheel/rich-awaitable/blob/master/src/test/scala/com/github/bigwheel/RichAwaitableSpec.scala)
